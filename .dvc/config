@@ -1,4 +1,2 @@
-[core]
-    remote = myremote
 ['remote "myremote"']
-    url = C:\Users\ANKIT BHARDWAJ\AppData\Local\Temp
+    url = s3://yt-comment-dvc-final-bucket
